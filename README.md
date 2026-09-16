@@ -1,6 +1,4 @@
-# KYC-Enriched Next Best Offer
-
-### with Agent-to-Agent Email Outreach on Confluent Cloud & Flink
+# KYC-Enriched Next Best Offer with Agent-to-Agent Email Outreach on Confluent Cloud & Flink
 
 A hands-on lab that builds a real-time, KYC-aware recommendation pipeline end to end: streaming data generation, Flink SQL enrichment and deterministic risk logic, and two independent Flink Streaming Agents that hand work off to each other through a Kafka topic, the first composing a personalized offer, the second dispatching the outreach email through an MCP tool.
 
