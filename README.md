@@ -34,6 +34,8 @@ This workshop builds that whole pipeline end to end:
 
 **Datagen → Flink SQL (enrichment + business logic) → Agent 1 (NBO Recommender) → Kafka topic handoff → Agent 2 (Email Dispatcher) → Email MCP tool.**
 
+<img width="2075" height="961" alt="image" src="https://github.com/user-attachments/assets/17ebdc8a-62f9-4cca-8ef0-4fe10edfbb7a" />
+
 ---
 
 ## Architecture
